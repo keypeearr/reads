@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "bbbb82b6df14df23",
+    "type": "split",
+    "children": [
+      {
+        "id": "804122255ebe33e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03bb029a0f5ad29b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/life-mode-on.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "life-mode-on"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cfd38d8ccb7a7a74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c8b65775f9fc45e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1196aa6693191e5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3874001abe784585",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f99befde3d45b073",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fcc031c752f5c649",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "26e098af7b949097",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33650847c57cdf14",
+    "type": "split",
+    "children": [
+      {
+        "id": "353c68d9bb401ca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "685ca1e3cc8e4385",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books/life-mode-on.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for life-mode-on"
+            }
+          },
+          {
+            "id": "356a4bfb6c29b4be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "books/life-mode-on.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from life-mode-on"
+            }
+          },
+          {
+            "id": "052841061f406ac2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "330b26ae81b12c14",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e518ceaf8cc95a50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "books/life-mode-on.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of life-mode-on"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "03bb029a0f5ad29b",
+  "lastOpenFiles": [
+    "README.md~",
+    "README.md",
+    "books/atomic-habits.md~",
+    "books/atomic-habits.md",
+    "books/12-rules-for-life.md~",
+    "books/12-rules-for-life.md",
+    "books/love-for-imperfect-things.md~",
+    "books/love-for-imperfect-things.md",
+    "books/ikigai.md~",
+    "books/ikigai.md",
+    "books/life-mode-on.md~",
+    "books/life-mode-on.md",
+    "books/self-help",
+    "books",
+    "book-covers",
+    "Covers",
+    "Welcome.md"
+  ]
+}
